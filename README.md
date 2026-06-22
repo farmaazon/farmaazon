@@ -1,6 +1,7 @@
 # Adam Obuchowicz
 Senior Software Engineer & Team Lead — Rust, C++
 Opole, Poland — open to remote / hybrid (Wrocław–Katowice)
+
 📧 obuchowiczadam@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/adam-obuchowicz-7b9513413/)], [GitHub](https://github.com/farmaazon)
 
 ### Selected work
