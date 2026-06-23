@@ -5,7 +5,7 @@ Opole, Poland — open to remote / hybrid (Wrocław–Katowice)
 📧 obuchowiczadam@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/adam-obuchowicz-7b9513413/), [GitHub](https://github.com/farmaazon)
 
 ### Selected work
-[Enso](https://github.com/enso-org/enso) — open-source data-analysis platform built around a dual-representation (text <-> graph) programming language. I authored a large part of the Rust IDE:
+[Enso](https://github.com/enso-org/enso) — open-source data-analysis platform built around a dual-representation (text <-> graph) programming language. I&nbsp;authored a large part of the Rust IDE:
 - Primary author (~60–82% by git blame -w) of text rendering and the component-browser / grid-view / list-view stack in the ensogl GPU/WebGL rendering framework (Rust -> WebAssembly)
 - #1 contributor to the app/gui application layer (~24%); lead of the engine-protocol client layer; work across language tooling (span-tree/AST)
 - #4 author across a 267k-line Rust codebase: 250+ merged PRs
