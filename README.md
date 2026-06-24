@@ -11,7 +11,7 @@ Opole, Poland — open to remote / hybrid (Wrocław–Katowice)
 - #4 author across a 267k-line Rust codebase: 250+ merged PRs
 - Code @ Rust-era commit c834847: [text rendering](https://github.com/enso-org/ide/pull/62/changes) [grid-view](https://github.com/enso-org/enso/tree/c834847/lib/rust/ensogl/component/grid-view) ·
 [component-browser](https://github.com/enso-org/enso/tree/c834847/app/gui/view/component-browser/component-list-panel/grid) · [engine-protocol](https://github.com/enso-org/enso/tree/c834847/app/gui/controller/engine-protocol)
-- [All my merged Enso PRs](https://github.com/enso-org/enso/pulls?q=is%3Apr+author%3Afarmaazon+is%3Amerged)
+- [All my merged Enso PRs](https://github.com/enso-org/enso/pulls?q=is%3Apr+author%3Afarmaazon+is%3Amerged) + [from older repository](https://github.com/enso-org/ide/pulls?q=is%3Apr+author%3Afarmaazon+is%3Amerged)
 
 ### Open-source contributions
 - [rust-windowing/keyboard-types](https://github.com/rust-windowing/keyboard-types/pull/4) — implemented FromStr for Key
