@@ -1,8 +1,7 @@
 # Adam Obuchowicz
 Senior Software Engineer & Team Lead — Rust, C++
-Opole, Poland — open to remote / hybrid (Wrocław–Katowice)
 
-📧 obuchowiczadam@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/adam-obuchowicz-7b9513413/), [GitHub](https://github.com/farmaazon)
+🔗 [LinkedIn](https://www.linkedin.com/in/adam-obuchowicz-7b9513413/), [GitHub](https://github.com/farmaazon)
 
 ### Selected work
 [Enso](https://github.com/enso-org/enso) — open-source data-analysis platform built around a dual-representation (text <-> graph) programming language. I&nbsp;authored a large part of the Rust IDE:
